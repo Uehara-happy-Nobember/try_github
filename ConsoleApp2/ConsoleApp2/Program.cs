@@ -10,6 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello GitHub!");
             Console.WriteLine("画面を閉じるには何かキーを入力してください。");
             Console.ReadKey();
+            Console.WriteLine("画面を閉じるには何かキーを入力してください。");
         }
     }
 }
